@@ -1,4 +1,4 @@
-admin,senha123,suspenso
+admin,senha123,bloqueado
 usuario1,minhasenha,ok
 usuario2,senha456,ok
 cliente_bloqueado,senha789,bloqueado
