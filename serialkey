@@ -1,6 +1,6 @@
 admin,admin,bloqueado
-usuario1,minhasenha,ok
+usuario1,minhasenha,suspenso
 usuario2,senha456,ok
 cliente_bloqueado,senha789,bloqueado
-teste,teste123,suspenso
+teste,teste123,ok
 henrique,admin2024,bloqueado
